@@ -10,14 +10,14 @@
         {  "id": 2,
             "name": "Juan",
             "email": "juan",
-            "password": "11",
+            "password": "22",
             "role": "buyer"
         },
         {
           "id": 3,
             "name": "Pedro",
             "email": "pedro",
-            "password": "11",
+            "password": "33",
             "role": "mechanic"
         }
         
