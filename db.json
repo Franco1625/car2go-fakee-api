@@ -3,20 +3,20 @@
         {
             "id": 1,
             "name": "Franco",
-            "email": "maku",
+            "email": "maku@example.com",
             "password": "11",
             "role": "seller"
         },
         {  "id": 2,
             "name": "Juan",
-            "email": "juan",
+            "email": "juan@example.com",
             "password": "22",
             "role": "buyer"
         },
         {
           "id": 3,
             "name": "Pedro",
-            "email": "pedro",
+            "email": "pedro@example.com",
             "password": "33",
             "role": "mechanic"
         }
