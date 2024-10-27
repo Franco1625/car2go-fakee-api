@@ -56,7 +56,7 @@
     "speed": 180,
     "id": 55,
     "title": "Toyota Corolla",
-    "status": "reviewed",
+    "status": "pending inspection",
     "images": [
       "assets/default_image.jpg"
     ],
