@@ -19,6 +19,13 @@
             "email": "pedro@example.com",
             "password": "33",
             "role": "mechanic"
+        },
+         {
+          "id": 4,
+            "name": "xddd",
+            "email": "o@example.com",
+            "password": "333",
+            "role": "mechanic"
         }
         
     ],
@@ -123,6 +130,13 @@
     "reviewDate": "2024-10-28T00:24:15.070Z",
     "notes": "dfgsdrfsd",
     "id": 1
-  }
+    },
+       {
+    "carId": 56,
+    "reviewedBy": "4",
+    "reviewDate": "2024-10-28T00:24:15.070Z",
+    "notes": "hola",
+    "id": 2
+    }
     ]
 }
