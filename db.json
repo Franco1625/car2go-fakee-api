@@ -15,7 +15,7 @@
         },
         {
           "id": 3,
-            "name": "Pedruo",
+            "name": "Pedro",
             "email": "pedro@example.com",
             "password": "33",
             "role": "mechanic"
